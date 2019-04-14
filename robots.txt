@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shohwilaet.cmder.net/sitemap.xml
